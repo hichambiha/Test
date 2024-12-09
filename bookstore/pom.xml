@@ -13,7 +13,6 @@
 	<artifactId>bookstore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Book Store</name>
-	<description>Java Spring MVC Hibernate</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
